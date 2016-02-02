@@ -111,12 +111,12 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
+        padding-top: 175px;
         padding-bottom: 100px;
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 3.00em;
     }
 
     header .intro-text .skills {
@@ -469,4 +469,9 @@ footer .footer-below {
 
 .about-text {
     font-size: 18px;
+}
+
+#acm-logo {
+    width: 250px;
+    height: 250px;
 }
