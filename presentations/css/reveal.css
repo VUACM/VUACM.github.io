@@ -1336,3 +1336,8 @@ html:-moz-full-screen-ancestor {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+#hackharvard {
+  width: 500px;
+  height: auto;
+}
